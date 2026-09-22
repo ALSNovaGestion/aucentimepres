@@ -4,7 +4,7 @@ description: Mentions légales du site Au centime près.
 ---
 ## Éditeur du site
 
-Le site **aucentimepres.fr** est édité par Sonia, entrepreneure individuelle exerçant sous le nom commercial **ALS Nova Gestion Administrative** (micro-entreprise).
+Le site **Au centime près** (blog.alsnovagestion.fr) est édité par Sonia, entrepreneure individuelle exerçant sous le nom commercial **ALS Nova Gestion Administrative** (micro-entreprise).
 
 - SIREN : 109 176 784
 - Siège : Arleux-en-Gohelle (62580), France
