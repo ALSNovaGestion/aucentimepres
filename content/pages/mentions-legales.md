@@ -8,14 +8,14 @@ Le site **aucentimepres.fr** est édité par Sonia, entrepreneure individuelle e
 
 - SIREN : 109 176 784
 - Siège : Arleux-en-Gohelle (62580), France
-- Contact : via le [formulaire de contact](/contact/)
+- Contact : [alsnovagestion@gmail.com](mailto:alsnovagestion@gmail.com)
 - TVA non applicable, article 293 B du CGI
 
 **Directrice de la publication :** Sonia, en qualité d'éditrice.
 
 ## Hébergement
 
-Le site est hébergé par **Netlify, Inc.**, 101 2nd Street, San Francisco, CA 94105, États-Unis. Site : [netlify.com](https://www.netlify.com).
+Le site est hébergé par **GitHub, Inc.** (service GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis. Site : [github.com](https://github.com).
 
 ## Propriété intellectuelle
 
