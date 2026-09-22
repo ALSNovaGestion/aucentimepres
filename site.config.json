@@ -1,0 +1,18 @@
+{
+  "name": "Au centime près",
+  "tagline": "Budget, épargne, impôts, aides : l'argent du quotidien expliqué simplement",
+  "url": "https://aucentimepres.fr",
+  "lang": "fr",
+  "author": "Sonia",
+  "authorBio": "Ancienne comptable en entreprise, fondatrice d'ALS Nova Gestion Administrative. J'écris ici ce que j'aurais aimé qu'on m'explique clairement : budget, épargne, impôts, aides sociales et micro-entreprise.",
+  "adsenseClient": "",
+  "gaId": "",
+  "categories": {
+    "budget": "Budget",
+    "epargne": "Épargne",
+    "impots": "Impôts",
+    "aides": "Aides & droits",
+    "micro-entreprise": "Micro-entreprise",
+    "consommation": "Consommation"
+  }
+}
