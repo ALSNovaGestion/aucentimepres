@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Prime d'activité 2026 : qui y a droit, comment est-elle calculée (aides)
 - [ ] Déclaration de revenus : frais réels ou abattement de 10 %, comment choisir (impots)
 - [ ] Frais bancaires : les plafonds légaux et comment les réduire (consommation)
 - [ ] Taxe foncière 2026 : calendrier, calcul et exonérations possibles (impots)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-09-23 → /methode-50-30-20-faire-son-budget/ — Méthode 50/30/20
 - [x] 2026-09-23 → /methode-des-enveloppes-budget/ — Méthode des enveloppes
 - [x] 2026-09-23 → /micro-entreprise-combien-mettre-de-cote-urssaf-2026/ — Micro-entreprise : combien mettre de côté pour l'Urssaf en 2026
+- [x] 2026-09-23 → /prime-activite-2026/ — Prime d'activité 2026 : qui y a droit et comment est-elle calculée
