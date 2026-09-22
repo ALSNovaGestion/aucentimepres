@@ -10,7 +10,7 @@ Sonia, éditrice du site (voir les [mentions légales](/mentions-legales/)).
 
 ## Données collectées
 
-- **Formulaire de contact** : votre prénom, votre e-mail et votre message. Ils servent uniquement à vous répondre et sont conservés 12 mois au maximum. Ils ne sont jamais vendus.
+- **Messages envoyés par e-mail** : votre adresse et votre message servent uniquement à vous répondre et sont conservés 12 mois au maximum. Ils ne sont jamais vendus.
 - **Mesure d'audience** : des statistiques de visite anonymisées, pour savoir quels articles sont lus.
 - **Publicité** : le site affiche des annonces diffusées par **Google AdSense**.
 
@@ -22,8 +22,8 @@ Pour en savoir plus sur l'usage de vos données par Google : [Comment Google uti
 
 ## Vos droits
 
-Conformément au RGPD, vous pouvez accéder à vos données, les faire rectifier ou effacer, et vous opposer à leur traitement. Pour cela, utilisez le [formulaire de contact](/contact/). Vous pouvez aussi adresser une réclamation à la **CNIL** ([cnil.fr](https://www.cnil.fr)).
+Conformément au RGPD, vous pouvez accéder à vos données, les faire rectifier ou effacer, et vous opposer à leur traitement. Pour cela, écrivez à [alsnovagestion@gmail.com](mailto:alsnovagestion@gmail.com). Vous pouvez aussi adresser une réclamation à la **CNIL** ([cnil.fr](https://www.cnil.fr)).
 
 ## Hébergement des données
 
-Le site et les messages du formulaire sont hébergés par Netlify (États-Unis), dans le cadre des garanties prévues par le RGPD pour les transferts hors de l'Union européenne.
+Le site est hébergé par GitHub Pages (GitHub, Inc., États-Unis), dans le cadre des garanties prévues par le RGPD pour les transferts hors de l'Union européenne.
