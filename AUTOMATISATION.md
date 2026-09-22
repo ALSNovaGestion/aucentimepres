@@ -1,6 +1,6 @@
 # Au centime près — fonctionnement automatique
 
-- Site : https://aucentimepres.fr, hébergé sur GitHub Pages. Chaque modification de la branche « Principal » déclenche la mise en ligne (GitHub Actions, fichier .github/workflows/deploy.yml), et une reconstruction automatique a lieu chaque matin.
+- Site : https://blog.alsnovagestion.fr (nom du blog : « Au centime près »), hébergé sur GitHub Pages. Chaque modification de la branche « Principal » déclenche la mise en ligne (GitHub Actions, fichier .github/workflows/deploy.yml), et une reconstruction automatique a lieu chaque matin. DNS : CNAME « blog » dans la zone OVH alsnovagestion.fr.
 - Articles : `content/articles/<slug>.md` (front-matter title, description, date AAAA-MM-JJ, category, et updated si mis à jour).
 - Catégories autorisées : budget, epargne, impots, aides, micro-entreprise, consommation.
 - Plan éditorial et journal de publication : `content/plan.md`.
