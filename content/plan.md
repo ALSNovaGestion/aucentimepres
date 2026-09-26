@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] LEP : conditions 2026, plafonds de revenus et comment l'ouvrir (epargne)
 - [ ] Budget de la rentrée et de Noël : lisser les grosses dépenses de fin d'année (budget)
 - [ ] Micro-entreprise : déclarer son chiffre d'affaires à l'Urssaf pas à pas (micro-entreprise)
 - [ ] Chèque énergie 2026 : montant, conditions et utilisation (aides)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-09-23 → /frais-reels-ou-abattement-10-pourcent/ — Frais réels ou abattement de 10 % : comment choisir en 2026
 - [x] 2026-09-24 → /frais-bancaires-plafonds-legaux/ — Frais bancaires : les plafonds légaux et comment les réduire
 - [x] 2026-09-25 → /taxe-fonciere-2026/ — Taxe foncière 2026 : calendrier, calcul et exonérations
+- [x] 2026-09-26 → /lep-2026-conditions-plafonds/ — LEP 2026 : taux, plafonds de revenus et comment l'ouvrir
