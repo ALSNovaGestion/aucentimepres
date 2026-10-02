@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Découvert bancaire : ce qu'il coûte vraiment et comment en sortir (budget)
 - [ ] APL 2026 : conditions, simulation et démarches (aides)
 - [ ] Micro-entreprise : versement libératoire, avantageux ou pas ? (micro-entreprise)
 - [ ] Assurance vie : fonctionnement, frais et fiscalité expliqués simplement (epargne)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-09-29 → /cheque-energie-2026/ — Chèque énergie 2026 : montant, conditions et utilisation
 - [x] 2026-09-30 → /prelevement-a-la-source-modifier-taux/ — Prélèvement à la source : modifier son taux au bon moment
 - [x] 2026-10-01 → /changer-assurance-emprunteur/ — Changer d'assurance emprunteur pour réduire le coût de son crédit
+- [x] 2026-10-02 → /decouvert-bancaire-cout-comment-en-sortir/ — Découvert bancaire : ce qu'il coûte vraiment et comment en sortir
