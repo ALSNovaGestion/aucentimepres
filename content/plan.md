@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Micro-entreprise : versement libératoire, avantageux ou pas ? (micro-entreprise)
 - [ ] Assurance vie : fonctionnement, frais et fiscalité expliqués simplement (epargne)
 - [ ] Crédit renouvelable : pourquoi le rembourser en priorité (consommation)
 - [ ] Réduire sa facture d'électricité : tarifs, options et bons gestes (consommation)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-01 → /changer-assurance-emprunteur/ — Changer d'assurance emprunteur pour réduire le coût de son crédit
 - [x] 2026-10-02 → /decouvert-bancaire-cout-comment-en-sortir/ — Découvert bancaire : ce qu'il coûte vraiment et comment en sortir
 - [x] 2026-10-06 → /apl-2026/ — APL 2026 : conditions, simulation et démarches
+- [x] 2026-10-07 → /versement-liberatoire-micro-entreprise/ — Versement libératoire en micro-entreprise : avantageux ou pas ?
