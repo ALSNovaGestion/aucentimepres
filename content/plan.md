@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Réduire sa facture d'électricité : tarifs, options et bons gestes (consommation)
 - [ ] Crédit d'impôt emploi à domicile : dépenses concernées et plafonds (impots)
 - [ ] Surendettement : quand et comment déposer un dossier à la Banque de France (aides)
 - [ ] Tenir ses comptes en 15 minutes par mois : la routine simple (budget)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-07 → /versement-liberatoire-micro-entreprise/ — Versement libératoire en micro-entreprise : avantageux ou pas ?
 - [x] 2026-10-08 → /assurance-vie-fonctionnement-frais-fiscalite/ — Assurance vie : fonctionnement, frais et fiscalité en 2026
 - [x] 2026-10-09 → /credit-renouvelable-rembourser-en-priorite/ — Crédit renouvelable : pourquoi le rembourser en priorité
+- [x] 2026-10-10 → /reduire-facture-electricite/ — Réduire sa facture d'électricité : tarifs, options et bons gestes
