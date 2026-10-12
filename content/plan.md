@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Surendettement : quand et comment déposer un dossier à la Banque de France (aides)
 - [ ] Tenir ses comptes en 15 minutes par mois : la routine simple (budget)
 - [ ] CFE micro-entrepreneur : montant, exonération la première année, paiement (micro-entreprise)
 - [ ] PEL et CEL en 2026 : encore intéressants ? (epargne)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-09 → /credit-renouvelable-rembourser-en-priorite/ — Crédit renouvelable : pourquoi le rembourser en priorité
 - [x] 2026-10-10 → /reduire-facture-electricite/ — Réduire sa facture d'électricité : tarifs, options et bons gestes
 - [x] 2026-10-11 → /credit-impot-emploi-a-domicile/ — Crédit d'impôt emploi à domicile : dépenses et plafonds 2026
+- [x] 2026-10-12 → /surendettement-dossier-banque-de-france/ — Surendettement : déposer un dossier à la Banque de France
