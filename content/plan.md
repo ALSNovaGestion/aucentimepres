@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] CFE micro-entrepreneur : montant, exonération la première année, paiement (micro-entreprise)
 - [ ] PEL et CEL en 2026 : encore intéressants ? (epargne)
 - [ ] Allocations familiales 2026 : montants et conditions (aides)
 - [ ] Résilier ses abonnements : les droits et les démarches simples (consommation)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-11 → /credit-impot-emploi-a-domicile/ — Crédit d'impôt emploi à domicile : dépenses et plafonds 2026
 - [x] 2026-10-12 → /surendettement-dossier-banque-de-france/ — Surendettement : déposer un dossier à la Banque de France
 - [x] 2026-10-13 → /tenir-ses-comptes-15-minutes-par-mois/ — Tenir ses comptes en 15 minutes par mois : la routine simple
+- [x] 2026-10-14 → /cfe-micro-entrepreneur/ — CFE micro-entrepreneur : montant, exonération et paiement
