@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Allocations familiales 2026 : montants et conditions (aides)
 - [ ] Résilier ses abonnements : les droits et les démarches simples (consommation)
 - [ ] Revenus d'une activité à côté du salaire : que déclarer ? (impots)
 - [ ] Budget avec des revenus irréguliers : la méthode du mois de référence (budget)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-13 → /tenir-ses-comptes-15-minutes-par-mois/ — Tenir ses comptes en 15 minutes par mois : la routine simple
 - [x] 2026-10-14 → /cfe-micro-entrepreneur/ — CFE micro-entrepreneur : montant, exonération et paiement
 - [x] 2026-10-15 → /pel-cel-2026-encore-interessants/ — PEL et CEL en 2026 : encore intéressants ?
+- [x] 2026-10-16 → /allocations-familiales-2026/ — Allocations familiales 2026 : montants, plafonds et conditions
