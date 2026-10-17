@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Résilier ses abonnements : les droits et les démarches simples (consommation)
 - [ ] Revenus d'une activité à côté du salaire : que déclarer ? (impots)
 - [ ] Budget avec des revenus irréguliers : la méthode du mois de référence (budget)
 - [ ] Complémentaire santé solidaire : qui peut en bénéficier (aides)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-14 → /cfe-micro-entrepreneur/ — CFE micro-entrepreneur : montant, exonération et paiement
 - [x] 2026-10-15 → /pel-cel-2026-encore-interessants/ — PEL et CEL en 2026 : encore intéressants ?
 - [x] 2026-10-16 → /allocations-familiales-2026/ — Allocations familiales 2026 : montants, plafonds et conditions
+- [x] 2026-10-17 → /resilier-abonnements-droits-demarches/ — Résilier ses abonnements : vos droits et les démarches simples
