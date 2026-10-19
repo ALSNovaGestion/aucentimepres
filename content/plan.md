@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Budget avec des revenus irréguliers : la méthode du mois de référence (budget)
 - [ ] Complémentaire santé solidaire : qui peut en bénéficier (aides)
 - [ ] Micro-entreprise : dépasser les seuils de TVA, ce qui change (micro-entreprise)
 - [ ] Épargner pour ses enfants : livret jeune, livret A, assurance vie (epargne)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-16 → /allocations-familiales-2026/ — Allocations familiales 2026 : montants, plafonds et conditions
 - [x] 2026-10-17 → /resilier-abonnements-droits-demarches/ — Résilier ses abonnements : vos droits et les démarches simples
 - [x] 2026-10-18 → /revenus-activite-complementaire-que-declarer/ — Revenus d'une activité à côté du salaire : que déclarer ?
+- [x] 2026-10-19 → /budget-revenus-irreguliers-mois-de-reference/ — Revenus irréguliers : faire son budget avec le mois de référence
