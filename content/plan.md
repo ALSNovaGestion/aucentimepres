@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Épargner pour ses enfants : livret jeune, livret A, assurance vie (epargne)
 - [ ] Changer de banque : la mobilité bancaire gratuite, mode d'emploi (consommation)
 - [ ] Pension alimentaire : déclaration et déduction d'impôt (impots)
 - [ ] Faire ses courses moins cher sans se priver : méthode et chiffres (budget)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-19 → /budget-revenus-irreguliers-mois-de-reference/ — Revenus irréguliers : faire son budget avec le mois de référence
 - [x] 2026-10-22 → /complementaire-sante-solidaire-c2s/ — Complémentaire santé solidaire (C2S) : qui peut en bénéficier ?
 - [x] 2026-10-23 → /depasser-seuil-tva-micro-entreprise/ — Micro-entreprise : dépasser les seuils de TVA, ce qui change
+- [x] 2026-10-24 → /epargner-pour-ses-enfants/ — Épargner pour ses enfants : livret jeune, livret A ou assurance vie ?
