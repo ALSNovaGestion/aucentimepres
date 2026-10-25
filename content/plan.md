@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Changer de banque : la mobilité bancaire gratuite, mode d'emploi (consommation)
 - [ ] Pension alimentaire : déclaration et déduction d'impôt (impots)
 - [ ] Faire ses courses moins cher sans se priver : méthode et chiffres (budget)
 - [ ] Aides pour passer le permis de conduire (aides)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-22 → /complementaire-sante-solidaire-c2s/ — Complémentaire santé solidaire (C2S) : qui peut en bénéficier ?
 - [x] 2026-10-23 → /depasser-seuil-tva-micro-entreprise/ — Micro-entreprise : dépasser les seuils de TVA, ce qui change
 - [x] 2026-10-24 → /epargner-pour-ses-enfants/ — Épargner pour ses enfants : livret jeune, livret A ou assurance vie ?
+- [x] 2026-10-25 → /changer-de-banque-mobilite-bancaire/ — Changer de banque : la mobilité bancaire gratuite, mode d'emploi
