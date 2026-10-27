@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Faire ses courses moins cher sans se priver : méthode et chiffres (budget)
 - [ ] Aides pour passer le permis de conduire (aides)
 - [ ] Facturation électronique : ce qui change pour les micro-entrepreneurs (micro-entreprise)
 - [ ] Intérêts composés : comprendre avec des exemples simples (epargne)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-24 → /epargner-pour-ses-enfants/ — Épargner pour ses enfants : livret jeune, livret A ou assurance vie ?
 - [x] 2026-10-25 → /changer-de-banque-mobilite-bancaire/ — Changer de banque : la mobilité bancaire gratuite, mode d'emploi
 - [x] 2026-10-26 → /pension-alimentaire-impot-deduction/ — Pension alimentaire et impôts : déclaration et déduction
+- [x] 2026-10-27 → /courses-moins-cher-sans-se-priver/ — Faire ses courses moins cher sans se priver : méthode et chiffres
