@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Facturation électronique : ce qui change pour les micro-entrepreneurs (micro-entreprise)
 - [ ] Intérêts composés : comprendre avec des exemples simples (epargne)
 - [ ] Assurance auto : faire baisser sa prime sans perdre en protection (consommation)
 - [ ] Dons aux associations : réduction d'impôt et justificatifs (impots)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-26 → /pension-alimentaire-impot-deduction/ — Pension alimentaire et impôts : déclaration et déduction
 - [x] 2026-10-27 → /courses-moins-cher-sans-se-priver/ — Faire ses courses moins cher sans se priver : méthode et chiffres
 - [x] 2026-10-28 → /aides-permis-de-conduire/ — Aides pour passer le permis de conduire : le guide 2026
+- [x] 2026-10-29 → /facturation-electronique-micro-entrepreneur/ — Facturation électronique : ce qui change pour les micro-entrepreneurs
