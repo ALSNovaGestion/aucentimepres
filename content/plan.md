@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Assurance auto : faire baisser sa prime sans perdre en protection (consommation)
 - [ ] Dons aux associations : réduction d'impôt et justificatifs (impots)
 - [ ] Budget étudiant : bourses, APL, jobs et dépenses (budget)
 - [ ] ARE et création d'entreprise : ARCE ou maintien des allocations ? (aides)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-28 → /aides-permis-de-conduire/ — Aides pour passer le permis de conduire : le guide 2026
 - [x] 2026-10-29 → /facturation-electronique-micro-entrepreneur/ — Facturation électronique : ce qui change pour les micro-entrepreneurs
 - [x] 2026-10-30 → /interets-composes-exemples-simples/ — Intérêts composés : comprendre avec des exemples simples
+- [x] 2026-10-31 → /assurance-auto-baisser-prime/ — Assurance auto : faire baisser sa prime sans perdre en protection
