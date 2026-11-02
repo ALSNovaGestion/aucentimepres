@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] Budget étudiant : bourses, APL, jobs et dépenses (budget)
 - [ ] ARE et création d'entreprise : ARCE ou maintien des allocations ? (aides)
 - [ ] Mutuelle d'entreprise : obligations et dispenses possibles (consommation)
 - [ ] Réussir son premier mois en micro-entreprise : la checklist administrative (micro-entreprise)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-30 → /interets-composes-exemples-simples/ — Intérêts composés : comprendre avec des exemples simples
 - [x] 2026-10-31 → /assurance-auto-baisser-prime/ — Assurance auto : faire baisser sa prime sans perdre en protection
 - [x] 2026-11-01 → /dons-associations-reduction-impot/ — Dons aux associations : réduction d'impôt et justificatifs en 2026
+- [x] 2026-11-02 → /budget-etudiant-bourses-apl-job/ — Budget étudiant : bourses, APL, job et dépenses, le guide 2026
