@@ -6,7 +6,6 @@ Les sujets peuvent être réordonnés ou complétés (actualité, saisonnalité,
 Alterner les rubriques autant que possible. Éviter tout doublon avec un article déjà publié.
 
 ## À publier
-- [ ] ARE et création d'entreprise : ARCE ou maintien des allocations ? (aides)
 - [ ] Mutuelle d'entreprise : obligations et dispenses possibles (consommation)
 - [ ] Réussir son premier mois en micro-entreprise : la checklist administrative (micro-entreprise)
 - [ ] Où placer 1 000 €, 5 000 € ou 10 000 € selon son objectif (epargne)
@@ -63,3 +62,4 @@ Alterner les rubriques autant que possible. Éviter tout doublon avec un article
 - [x] 2026-10-31 → /assurance-auto-baisser-prime/ — Assurance auto : faire baisser sa prime sans perdre en protection
 - [x] 2026-11-01 → /dons-associations-reduction-impot/ — Dons aux associations : réduction d'impôt et justificatifs en 2026
 - [x] 2026-11-02 → /budget-etudiant-bourses-apl-job/ — Budget étudiant : bourses, APL, job et dépenses, le guide 2026
+- [x] 2026-11-03 → /arce-ou-maintien-are-creation-entreprise/ — ARE et création d'entreprise : ARCE ou maintien des allocations ?
